@@ -12,7 +12,7 @@ const SocialLinks = () => {
         _hover={{
           color: "gray.600",
         }}
-        href="https://github.com/ElmouradiAmine/sortizer-v2"
+        href="https://github.com/ElmouradiAmine/sudoku-solver"
         target="_blank"
       >
         <FaGithub size="1.2em" />
@@ -40,7 +40,7 @@ const SocialLinks = () => {
       <Spacer />
       <Box transform="translateY(2px)">
         <GitHubButton
-          href="https://github.com/ElmouradiAmine/sortizer-v2"
+          href="https://github.com/ElmouradiAmine/sudoku-solver"
           data-color-scheme={`no-preference: ${theme}; light: ${theme}; dark: ${theme};`}
           data-icon="octicon-star"
           data-size="large"
